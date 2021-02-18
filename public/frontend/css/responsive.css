@@ -1,0 +1,309 @@
+/* Medium desktop :992px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+    
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+.profile-desc {
+  padding-left: 28px;
+}
+.profile-desc h2 {
+  margin-bottom: 20px;
+}
+.profile-desc > p {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}    
+.profile-about ul li {
+  margin-bottom: 15px;
+} 
+.about-area {
+  padding: 80px 0;
+}  
+.service-section {
+  padding: 80px 0 34px;
+} 
+.portfolio-area {
+  padding: 80px 0 50px;
+}   
+.fun-facts-area {
+  padding: 80px 0;
+}  
+.testimonel-area {
+  padding: 80px 0;
+} 
+.blog-area {
+  padding: 80px 0 50px;
+}    
+.contact-area {
+  padding: 80px 0;
+}   
+.breadcrumb-area {
+  margin-bottom: 80px;
+}   
+    
+    
+
+}
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul.navbar-nav li {
+  padding: 0 8px;
+}   
+.porfile-photo {
+  -webkit-transform: translateY(0px) translateX(0px);
+  transform: translateY(0px) translateX(0px);
+}
+.profile-desc {
+  padding-left: 0;
+} 
+.single-service {
+  width: 50%;
+}
+.profile-about ul li {
+  margin-bottom: 16px;
+}   
+.profile-desc h2 {
+  margin-bottom: 15px;
+}   
+.profile-desc > p {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}   
+.about-area {
+  padding: 70px 0 70px;
+}   
+.post-content {
+  padding: 12px;
+} 
+.post-content > h3 {
+  font-size: 19px;
+}   
+.portfolio-area {
+  padding: 70px 0 50px;
+}   
+.widget-search {
+  padding-left: 0;
+}  
+.widget-categories, .blog-right-sidebar-bottom {
+  padding-left: 0;
+}   
+.submit-form > button {
+  margin-bottom: 30px;
+}  
+.blog-right-sidebar-bottom {
+  margin-bottom: 30px;
+}   
+.breadcrumb-area {
+  margin-bottom: 70px;
+}
+.single-blog-area {
+  margin-bottom: 40px;
+}
+.profile-about ul li {
+  font-size: 14px;
+}
+.service-section {
+  padding: 70px 0 24px;
+}  
+.fun-facts-area {
+  padding: 70px 0;
+}  
+.testimonel-area {
+  padding: 70px 0;
+}    
+.blog-area {
+  padding: 70px 0 50px;
+}  
+.contact-area {
+  padding: 70px 0;
+}   
+    
+    
+    
+    
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width: 100%;}
+.main-menu ul.navbar-nav {
+  background: #333333 none repeat scroll 0 0;
+  float: left;
+  margin: 0;
+  width: 100%;
+}
+.single-service-inner > h3 {
+  font-size: 22px;
+}
+.main-menu .navbar-collapse{
+    padding-left: 0;
+}
+.main-menu ul.navbar-nav li a {
+  padding: 12px 0;
+  text-align: center;
+}
+.slider-text > h3 {
+  font-size: 22px;
+}
+.slider-text h1 {
+  font-size: 38px;
+}
+.slider-text h4 {
+  font-size: 18px;
+}
+.about-area .social-icon li a {
+  width: 30px;
+}
+.profile-desc {
+  padding-left: 0px;
+  margin-top: 30px;
+}
+.profile-about ul li:nth-child(2n+1) {
+  width: 100%;
+}
+.download-cv-btn > a {
+  padding: 8px 10px;
+}
+.porfile-photo {
+  -webkit-transform: translateY(0px) translateX(0px);
+  transform: translateY(0px) translateX(0px);
+}
+.about-area {
+  padding: 60px 0;
+}
+.service-section {
+  padding: 60px 0 30px;
+}
+.single-service-inner {
+  padding: 35px 25px;
+}
+.portfolio-area {
+  padding: 60px 0 30px;
+} 
+.fun-facts-area {
+  padding: 60px 0 30px;
+} 
+.testimonel-area {
+  padding: 60px 0;
+}   
+.blog-area {
+  padding: 60px 0 30px;
+}   
+.contact-area {
+  padding: 60px 0;
+}
+.single-fun-facts {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.single-service {
+  width: 100%;
+}
+.testimonel-img {
+  float: inherit;
+}
+.testimonel-cont {
+  padding-left: 0;
+  margin-top: 30px;
+}    
+.single-counter h3 {
+  margin-bottom: 5px;
+}   
+.section-title h2 {
+  font-size: 32px;
+}
+.testimonel-item {
+  padding: 20px;
+}
+.footer-area {
+  padding: 35px 0;
+}
+.porfile-photo > img {
+  width: 100%;
+}
+.widget-search {
+  padding-left: 0;
+}  
+.widget-categories, .blog-right-sidebar-bottom {
+  padding-left: 0;
+}   
+.submit-form > button {
+  margin-bottom: 30px;
+}  
+.blog-right-sidebar-bottom {
+  margin-bottom: 30px;
+}   
+.breadcrumb-area {
+  margin-bottom: 60px;
+}  
+.media-img {
+  float: inherit;
+  margin-right: 0px;
+  margin-bottom: 15px;
+  text-align: center;
+}   
+.media-body h4 {
+  text-align: center;
+}   
+.media.comment-reply {
+  padding-left: 0px;
+}   
+.blog-details-desc > p {
+  font-size: 14px;
+} 
+.blog_quote blockquote {
+  margin-left: 15px;
+}  
+.single-blog-area {
+  margin-bottom: 20px;
+}  
+.blog-image {
+  margin-bottom: 30px;
+} 
+.post-content h3 a {
+  font-size: 22px;
+}  
+.post-read > a {
+  font-size: 14px;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+    
+    
+    
+   
+    
+    
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px} 
+
+     
+   
+ 
+}
+
+
+
+
+
+ 
